@@ -154,7 +154,7 @@ pip install -U .
 ```
 
 
-For more help with the installation, look at the instrctions in [Playground](https://github.com/MultiAgentLearning/playground). 
+For more help with the installation, look at the instructions in [Playground](https://github.com/MultiAgentLearning/playground). 
 
 Now you can just run the respective files mentioned in the above section to run our code.
 
@@ -163,7 +163,7 @@ For the Pursuit and Waterworld domains you also need to install petting zoo libr
 
 ### Petting Zoo
 
-- Gym (Version 0.18.0)
+- `gym` (Version 0.18.0)
 
 ```shell
 pip install gym==0.18.0
