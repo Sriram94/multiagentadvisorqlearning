@@ -1,6 +1,6 @@
 # Multi-Agent Advisor Q-Learning
 
-Implementation of ADMIRAL-DM, ADMIRAL-DM(AC), and ADMIRAL-AE algorithms for the paper: [Multi-Agent Advisor Q-learning](https://arxiv.org/pdf/2111.00345.pdf). Paper accepted to be published in the Journal of Artificial Intelligence Research (JAIR).  
+Implementation of ADMIRAL-DM, ADMIRAL-DM(AC), and ADMIRAL-AE algorithms for the paper: [Multi-Agent Advisor Q-learning](https://jair.org/index.php/jair/article/view/13445/26794). Paper published in the Journal of Artificial Intelligence Research (JAIR).  
 
  
 ## Code structure
@@ -196,11 +196,13 @@ We would also like to cite [Reinforcement Learning and Tensorflow](https://githu
 If you found this helpful, please cite the following paper:
 
 <pre>
-@InProceedings{Sriramadvisorq2022,
-  title = 	 {Multi-Agent Advisor Q-Learning},
-  author = 	 {Subramanian, Sriram Ganapathi and Taylor, Matthew and Larson, Kate and Crowley, Mark} 
-  year = 	 {2022},
-  journal   =   {Journal of Artificial Intelligence Research}
+@article{Subramanian2022multiagent,
+  title={Multi-Agent Advisor Q-Learning},
+  author={Subramanian, Sriram Ganapathi and Larson, Kate and Taylor, Matthew and Crowley, Mark},
+  journal={Journal of Artificial Intelligence Research},
+  volume={74},
+  pages={1--74},
+  year={2022}
 }
 </pre>
 
