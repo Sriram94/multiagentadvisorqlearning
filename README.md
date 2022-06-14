@@ -198,7 +198,7 @@ If you found this helpful, please cite the following paper:
 <pre>
 @article{Subramanian2022multiagent,
   title={Multi-Agent Advisor Q-Learning},
-  author={Subramanian, Sriram Ganapathi and Taylor, Matthew E and Larson, Kate and Crowley, Mark},
+  author={Subramanian, Sriram Ganapathi and Taylor, Matthew E. and Larson, Kate and Crowley, Mark},
   journal={Journal of Artificial Intelligence Research},
   volume={74},
   pages={1--74},
